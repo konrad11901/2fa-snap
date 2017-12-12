@@ -2,7 +2,7 @@
   2fa
 </h1>
 
-<p align="center"><b>This is the snap for 2fa</b>, <i>"Two-factor authentication on the command line "</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
+<p align="center"><b>This is the snap for 2fa</b>, <i>"Two-factor authentication on the command line"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
 [![Snap Status](https://build.snapcraft.io/badge/konrad11901/2fa-snap.svg)](https://build.snapcraft.io/user/konrad11901/2fa-snap)
