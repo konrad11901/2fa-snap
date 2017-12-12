@@ -8,9 +8,10 @@ confinement: strict
 
 parts:
   2fa:
-    source: .
+    source: https://github.com/rsc/2fa.git
+    source-tag: v1.0.0
     plugin: go
-    go-packages: [rsc.io/2fa]
+    go-packages: github.com/rsc/2fa
 
 apps:
   2fa:
