@@ -1,5 +1,5 @@
 name: 2fa
-version: '1.0.0'
+version: 'v1.0.0'
 summary: Two-factor authentication agent
 description: |
   2fa is a tool which provides two-factor authentication on the command line.
